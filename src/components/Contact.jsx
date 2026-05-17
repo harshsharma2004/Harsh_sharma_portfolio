@@ -45,6 +45,17 @@ export default function Contact() {
                 </div>
               </div>
             </div>
+            <div className="glass-card contact-card">
+              <div className="contact-item">
+                <span className="contact-icon">🐙</span>
+                <div>
+                  <p className="contact-label">GitHub</p>
+                  <a href="https://github.com/harshsharma2004" target="_blank" rel="noopener noreferrer">
+                    harshsharma2004
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

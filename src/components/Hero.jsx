@@ -25,7 +25,7 @@ export default function Hero() {
       <div className="hero-visual">
         <img
           className="hero-avatar"
-          src="/Harsh%20Sharma%20pic.png"
+          src="/profile.png"
           alt="Harsh Sharma"
           onError={handleImageError}
         />

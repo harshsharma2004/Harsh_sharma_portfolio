@@ -31,6 +31,16 @@ export default function Projects() {
       award: true,
       awardText: '🏆 Outstanding Project Award - MRU Tech Showcase'
     }
+    ,
+    {
+      badge: 'Flask',
+      title: 'Employee Management System',
+      date: 'Personal Project',
+      description: 'A clean, user-friendly web application built with Flask to manage employee records. Supports full CRUD operations, responsive Bootstrap 5 UI, and SQLite storage.',
+      tech: ['Flask', 'Python', 'SQLite', 'Bootstrap 5', 'Jinja2'],
+      link: 'https://github.com/harshsharma2004/Employee_Management_System',
+      award: false
+    }
   ]
 
   return (
