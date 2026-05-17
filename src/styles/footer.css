@@ -1,0 +1,44 @@
+.footer {
+    background: rgba(10, 26, 63, 0.8);
+    backdrop-filter: blur(20px);
+    border-top: 1px solid rgba(0, 102, 204, 0.2);
+    padding: 40px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    color: rgba(224, 231, 255, 0.7);
+    font-size: 14px;
+}
+
+.footer-content p {
+    margin: 5px 0;
+}
+
+.heart {
+    color: #0099ff;
+    animation: heartbeat 1.5s infinite;
+}
+
+@keyframes heartbeat {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+}
+
+@media (max-width: 480px) {
+    .footer {
+        padding: 30px 20px;
+    }
+
+    .footer-content p {
+        font-size: 12px;
+    }
+}
