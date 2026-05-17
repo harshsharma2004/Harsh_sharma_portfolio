@@ -25,7 +25,7 @@ export default function Hero() {
       <div className="hero-visual">
         <img
           className="hero-avatar"
-          src="/profile.png"
+          src={import.meta.env.BASE_URL + 'profile.png'}
           alt="Harsh Sharma"
           onError={handleImageError}
         />
