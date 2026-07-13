@@ -9,7 +9,7 @@ export default function About() {
           <div className="glass-card about-card">
             <div className="card-icon">🛡️</div>
             <h3>Security First</h3>
-            <p>Microsoft Certified Azure Security Engineer with hands-on experience in enterprise cloud security, SOC operations, and Zero Trust architecture implementation.</p>
+            <p>Microsoft Certified Cybersecurity Architect Expert with hands-on experience in enterprise cloud defense, architecture design, and hybrid IT infrastructure.</p>
           </div>
           <div className="glass-card about-card">
             <div className="card-icon">🚀</div>
@@ -23,7 +23,7 @@ export default function About() {
           </div>
         </div>
         <div className="about-text">
-          <p>I'm a final-year B.Tech CS student from Manav Rachna University with a passion for cloud security and infrastructure. Currently working as an IT Intern at Plasser India, where I manage enterprise infrastructure and architect secure Azure environments. With certifications in AZ-500, CCSK v5, and SC-900, I combine theoretical knowledge with practical experience in defending complex cloud architectures.</p>
+          <p>Microsoft Certified Cybersecurity Architect Expert and recent B.Tech Computer Science graduate with hands-on experience bridging enterprise cloud defense, architecture design, and hybrid IT infrastructure. Holding active SC-100, AZ-500, CCSK v5, AZ-900, and SC-900 certifications. Possesses a unique builder-defender mindset with a deep understanding of enterprise attack surfaces, derived from actively architecting secure cloud environments and engineering custom hardware defense systems.</p>
         </div>
       </div>
     </section>

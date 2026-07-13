@@ -3,6 +3,12 @@ import '../styles/sections.css'
 export default function Certifications() {
   const certifications = [
     {
+      icon: '🧠',
+      title: 'Microsoft Certified: Cybersecurity Architect Expert',
+      subtitle: 'SC-100',
+      issuer: 'Microsoft • 2026'
+    },
+    {
       icon: '🔷',
       title: 'Microsoft Certified: Azure Security Engineer Associate',
       subtitle: 'AZ-500',

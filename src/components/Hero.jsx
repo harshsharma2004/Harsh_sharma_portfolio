@@ -32,7 +32,7 @@ export default function Hero() {
       </div>
       <div className="hero-content">
         <h1 className="hero-title">Harsh Sharma</h1>
-        <p className="hero-subtitle">Azure Security Engineer & Cloud Architect</p>
+        <p className="hero-subtitle">Microsoft Cybersecurity Architect Expert | Cloud Security Engineer</p>
         <p className="hero-description">Securing cloud infrastructure • Building Zero Trust architectures • Threat Detection & Response</p>
         <div className="hero-buttons">
           <button className="btn btn-primary" onClick={() => scrollToSection('projects')}>
